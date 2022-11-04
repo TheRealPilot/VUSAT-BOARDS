@@ -379,9 +379,9 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "../../../../../../Program Files/KiCad/6.0/bin/",
+      "netlist": "../../../../Program Files/KiCad/6.0/bin/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../Desktop/Flight ComputerV1CAD.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
